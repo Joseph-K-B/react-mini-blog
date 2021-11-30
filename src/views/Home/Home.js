@@ -46,5 +46,4 @@ export default function Home() {
       />
     </main>
   )
-  // eslint-disable-next-line prettier/prettier
 }
